@@ -1,0 +1,2 @@
+# quote_notion_gen
+Personalised_notion_widget
